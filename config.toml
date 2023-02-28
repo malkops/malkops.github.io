@@ -1,0 +1,37 @@
+base_url = "https://malkops.github.io/"
+
+compile_sass = true
+
+build_search_index = false
+
+theme = "terminimal"
+
+title = "Matvey Malkov"
+description = "Senior system administrator in bank"
+
+[markdown]
+highlight_code = false
+
+[link_checker]
+skip_anchor_prefixes = [
+    "https://malkops.github.io/",
+]
+
+[extra]
+accent_color = "green"
+background_color = "green"
+
+logo_text = "Malkops homepage"
+# logo_home_link = "https://raw.githubusercontent.com/malkops/malkops.github.io/main/1-147.jpg"
+
+author = "Matvey Malkov :: Powered by Zola "
+
+# menu is enabled by adding menu_items (optional)
+#menu_items = [
+#    {name = "github", url = "url-to-your-github", newtab = true},
+#]
+
+default_language = "en"
+
+page_titles = "main_only"
+
