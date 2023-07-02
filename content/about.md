@@ -3,8 +3,8 @@ title = "About me"
 cover = "me.jpg"
 +++
 
-{{ image(src="me.jpg",
-    style="border-radius: 8px; width: 50%;",
+{{ image(src="me_crop.jpg",
+    style="border-radius: 8px;",
     position="center",
     alt="It's me on the pic") }}
 
