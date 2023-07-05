@@ -8,7 +8,7 @@ cover = "me.jpg"
     position="center",
     alt="It's me on the pic") }}
 
-My name is Matvey, and I'm a system administrator who like to learn devops stuff.
+My name is Matvey, and I'm a system administrator who likes to learn devops stuff.
 You can contact me by using links on the bottom.
 
 ---
@@ -40,7 +40,7 @@ You can contact me by using links on the bottom.
   **System administrator at [BANK SINARA](https://www.sinara-group.com/en/directions/financial-group/sinara-bank/)**
 
   Starting as a junior system administrator, I helped pass 3DSv2 MasterCard and MIR payment system certifications.
-  After certifications, I started doing infrastructure tasks like a improving observability and automate testing.
+  After certifications, I started doing infrastructure tasks like improving observability and automate testing.
   At the moment, I am in the process of migrating a large system to Kubernetes.
 
   My responsibilities include:
