@@ -67,7 +67,7 @@ You can contact me by using links on the bottom.
 
 * 2014 - 2018
  
-  **Ural State Technical University** - Data Science (Bachelor)
+  **Ural State Technical University** - Computer Science (Bachelor)
 
 ---
 
