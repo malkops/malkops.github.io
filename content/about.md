@@ -47,11 +47,11 @@ You can contact me by using links on the bottom.
   
   * Improving observability (monitoring and alerting)
   * Updating two 3DS system (Issuing and Acquiring)
-  * Tesing that two system
+  * Testing that two system
   * Contacting with vendor
   * Rewrite yaml for Helm
   * Helping teammates with Helm and Kubernetes
-  * Write SQL querier
+  * Write SQL queries
 
 ---
 
